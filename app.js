@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/books';
+const API_URL = 'https://app-book-backend.onrender.com/api/books';
 
 const form = document.getElementById('entry-form');
 const entryId = document.getElementById('entry-id');
